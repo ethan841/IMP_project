@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "IMP_SnakeGame"
